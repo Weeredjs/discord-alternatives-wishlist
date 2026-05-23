@@ -6646,7 +6646,7 @@
         "media_gallery_channels": "planned",
         "scheduled_announcements": "yes",
         "tournament_brackets": "yes",
-        "no_premium_tier": "yes",
+        "no_premium_tier": "no",
         "rich_calendar_tools": "planned",
         "message_ttl": "no",
         "persistent_voice_channels": "yes",
